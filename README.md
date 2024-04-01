@@ -8,12 +8,12 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- (#overview)
-  - (#the-challenge)
-  - (#screenshot)
-  - (#links)
-  - (#built-with)
-- (#author)
+- [Overview](#overview)
+  - [Challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built-with](#built-with)
+- [Author](#author)
 
 ## Overview
 
